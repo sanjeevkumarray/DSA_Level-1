@@ -1,4 +1,4 @@
-# DSA_Level-1  JAVA
+# DSA_LEVEL-1  JAVA
 
 ● Basics of Programming 
 
