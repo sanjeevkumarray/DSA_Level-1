@@ -1,59 +1,59 @@
 # DSA_Level-1
 
-Basics of Programming 
+● Basics of Programming 
 
-JAVA  Coders
+●JAVA  Coders
 
-Getting Started
+●Getting Started
 
-Patterns
+●Patterns
 
-Function and Arrays
+●Function and Arrays
 
-2D Arrays
+●2D Arrays
 
-String, String Builder and ArrayList
+●String, String Builder and ArrayList
 
-Recursion and Backtracking  
+●Recursion and Backtracking  
 
-Introduction to Recursion
+●Introduction to Recursion
 
-Recursion in Arrays
+●Recursion in Arrays
 
-Recursion with Arraylists
+●Recursion with Arraylists
 
-Recursion on the way up
+●Recursion on the way up
 
-Recursion Backtracking
+●Recursion Backtracking
 
-Dynamic Programming
+●Dynamic Programming
 
-Dynamic Programming and Greedy
+●Dynamic Programming and Greedy
 
-Time and Space Complexity
+●Time and Space Complexity
 
-OOPS  
+●OOPS  
 
-Basic Data Structures  
+●Basic Data Structures  
 
-Stacks and Queues
+●Stacks and Queues
 
-Linked Lists
+●Linked Lists
 
-Generic Tree
+●Generic Tree
 
-Binary Tree
+●Binary Tree
 
-Binary Search Tree
+●Binary Search Tree
 
-Advanced Data Structure  
+●Advanced Data Structure  
 
-Hashmap And Heap
+●Hashmap And Heap
 
-Graphs
+●Graphs
 
-Miscellaneous  
+●Miscellaneous  
 
-JAVA  Coders
+●JAVA  Coders
 
-LeetCode  Questions Answer
+●LeetCode  Questions Answer
