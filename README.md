@@ -59,7 +59,8 @@
 ●LeetCode  Questions Answer
 
 
-![image](https://user-images.githubusercontent.com/53333326/187085083-2c65de6a-7585-4926-a551-f1cb38c34c72.png)
+![image](https://user-images.githubusercontent.com/53333326/187085225-a4659576-78d6-4cda-9401-972993957d9e.png)
+
 
 ![image](https://user-images.githubusercontent.com/53333326/187085101-50b522eb-4dd2-42c0-88f2-c3ee497d4fbe.png)
 
